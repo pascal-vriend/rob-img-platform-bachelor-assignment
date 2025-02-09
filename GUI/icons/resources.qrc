@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="blackIcons">
+    <file>arrow_down_black.svg</file>
+    <file>trash-2.svg</file>
+  </qresource>
+  <qresource prefix="whiteIcons">
+    <file>arrow_down_white.svg</file>
+    <file>trashcan_white.svg</file>
+  </qresource>
+</RCC>

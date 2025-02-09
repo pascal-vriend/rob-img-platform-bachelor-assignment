@@ -1,0 +1,8 @@
+{
+    "ip-address": "127.0.0.1",
+    "port": "12345",
+    "filter-type": "low",
+    "filter-order": "4",
+    "filter-cutoff": "0.3, 50",
+    "sampling-frequency": "1000"
+}
